@@ -1,6 +1,4 @@
-# React With TypeScipt
-
-Had fun with react-transition-group.
+# React With TypeScript
 
 # Created at
 
@@ -15,7 +13,7 @@ February 10, 2022
 
 # View on browser
 
-## [https://n00bg1rl.github.io/react-mini-anim/](https://n00bg1rl.github.io/react-mini-anim/)
+## [https://n00bg1rl.github.io/React-TypeScript/](https://n00bg1rl.github.io/React-TypeScript/)
 
 # View as image
 
