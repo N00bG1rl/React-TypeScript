@@ -15,10 +15,16 @@ function App() {
     })
   }
 
+  const handleRemove = (todoId: string) => {
+    setTodos(prevTodos => {
+      return prevTodos.filter(todo => todo.id !== todoId)
+    })
+  }
+
   return (
     <div>
       <TodoForm onAddTodo={handleAdd} />
-      <Todos items={todos} />
+      <Todos items={todos} onRemove={handleRemove} />
     </div>
   )
 }
