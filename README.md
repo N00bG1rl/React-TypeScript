@@ -1,3 +1,26 @@
+# React With TypeScipt
+
+Had fun with react-transition-group.
+
+# Created at
+
+February 10, 2022
+
+# Project is created with
+
+- React
+- TypeScript
+- Context API
+- CSS
+
+# View on browser
+
+## [https://n00bg1rl.github.io/react-mini-anim/](https://n00bg1rl.github.io/react-mini-anim/)
+
+# View as image
+
+![github](public/github.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
